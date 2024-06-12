@@ -10,3 +10,4 @@ php
 php7.3-fpm
 nginx
 mysql
+linux
