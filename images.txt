@@ -16,3 +16,4 @@ wordpress
 haproxy
 registry
 busybox
+uifd/ui-for-docker
